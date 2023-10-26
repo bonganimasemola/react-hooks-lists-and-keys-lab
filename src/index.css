@@ -80,7 +80,7 @@ nav a:active {
 #project-list {
   display: flex;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
   width: 100%;
   max-width: 800px;
 }
